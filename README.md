@@ -44,6 +44,7 @@ http://localhost:4173
 ```
 
 ````
+````
 ### 📋 4. Check Running Containers (Optional)
 
 To verify the container is running:
@@ -54,14 +55,24 @@ docker ps
 
 ```
 
-### ⚙️ Environment Variables
 
 
-If your app relies on a .env file (already included), Docker needs access to it. You can mount it like this:
+
+```` #### Second method
+
+````
+
+## 🚀 1. Run from Docker Hub (Recommended)
+
+If you don't want to build the app locally, just pull it from Docker Hub and run:
 
 ```bash
+docker pull rajanjha16/github-battle
+docker run -p 4173:4173 rajanjha16/github-battle
 
-docker run --env-file .env -p 4173:4173 github-battel
+```
+
+
 
 
 ``` 
