@@ -78,7 +78,7 @@ docker run -p 4173:4173 rajanjha16/github-battle
 ``` 
 ###  📁 Project Structure (Important Files)
 
-```
+
 
 project/
 
