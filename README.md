@@ -32,6 +32,18 @@ docker run -p 4173:4173 github-battel
 
 
 ```
+
+### 🌐 5. Access the App in Your Browser
+
+Once the container is running, open your browser and go to:
+```
+
+http://localhost:4173
+
+
+```
+
+````
 ### 📋 4. Check Running Containers (Optional)
 
 To verify the container is running:
