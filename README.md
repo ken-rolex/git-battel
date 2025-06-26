@@ -2,6 +2,19 @@
 
 This project is a Vite + TypeScript based GitHub Battle app, styled with Tailwind CSS. This guide shows how to run it using Docker.
 
+![Screenshot 2025-06-26 115723](https://github.com/user-attachments/assets/b6e36f60-0ecc-4154-9ba3-9fcdb2e9a969)
+
+
+
+![Screenshot 2025-06-26 120305](https://github.com/user-attachments/assets/20d105eb-250e-4fce-8d3f-32100a31ce5e)
+
+
+
+![Screenshot 2025-06-26 120329](https://github.com/user-attachments/assets/a0092faf-c54b-4bbe-a1e5-d90d84c05b51)
+
+
+
+
 ---
 
 ## 🐳 Run with Docker
